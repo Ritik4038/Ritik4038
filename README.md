@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python,HTML,C,C++ ...
 - 💞️ I’m looking to collaborate on My Own Passion Creative Things  ...
 - 📫 How to reach me ritikd989@gmail.com ...
-
+- 🙌 https://ritikd989.wixsite.com/ritikdubeyportfolio 
+- check my portfolio & get more info about me.
 <!---
 Ritik4038/Ritik4038 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
